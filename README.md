@@ -1,4 +1,2 @@
-# Lunatic-Demo
-This is my first git repository
-<br>
-Author - Lunatic
+This is my very first repo.<br/>
+I use it to put all the practice programs and projects in one place. <br/>
